@@ -44,11 +44,11 @@ Exemplo de estrutura de arquivos:
 
 ```
 src/
-└── stream_api/
-    ├── Desafio1Ordenacao.java
-    ├── Desafio2SomaPares.java
+└── main/java/
+    ├── Desafio1.java
+    ├── Desafio2.java
     ├── ...
-    └── Desafio19SomaDivisiveis3e5.java
+    └── Desafio19.java
 ```
 
 ---
