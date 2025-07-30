@@ -3,7 +3,6 @@ package main.java;
 import main.list.ListNumbers;
 
 import java.util.List;
-import java.util.NoSuchElementException;
 
 public class Desafio19 {
     private void somarNumerosDivisiveisPorTresECinco(List<Integer> list) {

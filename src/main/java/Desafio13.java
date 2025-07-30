@@ -3,7 +3,6 @@ package main.java;
 import main.list.ListNumbers;
 
 import java.util.List;
-import java.util.Optional;
 
 public class Desafio13 {
     private void filtrarIntervalo(List<Integer> list) {

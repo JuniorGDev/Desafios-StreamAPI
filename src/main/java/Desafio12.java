@@ -4,7 +4,6 @@ import main.list.ListNumbers;
 
 import java.util.List;
 import java.util.NoSuchElementException;
-import java.util.Optional;
 
 public class Desafio12 {
     private void encontreProduto(List<Integer> list) {

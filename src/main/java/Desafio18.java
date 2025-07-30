@@ -4,7 +4,6 @@ import main.list.ListNumbers;
 
 import java.util.Collections;
 import java.util.List;
-import java.util.stream.Collectors;
 
 public class Desafio18 {
     private void numerosIguais(List<Integer> list) {
